@@ -1,0 +1,51 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "5ebdffd2-cf79-4580-9060-c9bab0414b88")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 135.89 53.34)
+		(size 12.7 16.51)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ceadeaa6-48d0-4ff8-aac3-cbf4a9ac7f86")
+		(property "Sheetname" "schemat 1"
+			(at 135.89 52.6284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "schemat_1.kicad_sch"
+			(at 135.89 70.4346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Testowy projekt dla kicada"
+				(path "/5ebdffd2-cf79-4580-9060-c9bab0414b88"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
